@@ -238,3 +238,13 @@ All commands and permission nodes.
       "Repair";
       "morecommands.repair";
       "morecommands.repair.others";
+
+*EffectOPapers Section!
+Recipies:
+
+Conduit Power:
+![Capture](https://user-images.githubusercontent.com/82063067/129442831-556930d8-9c17-4dc3-acc0-a58df465468e.PNG)
+![Capture1](https://user-images.githubusercontent.com/82063067/129442832-17b36ca3-ab86-4f0a-a380-6b28a7e91bd1.PNG)
+![Capture2](https://user-images.githubusercontent.com/82063067/129442833-5d888b2b-a06b-417e-9e16-30794cc0c4d9.PNG)
+![Capture3](https://user-images.githubusercontent.com/82063067/129442835-6a975696-ef54-49fe-8ac4-e924be0ef17d.PNG)
+![Capture4](https://user-images.githubusercontent.com/82063067/129442836-23ae7f49-9dfb-4b34-866f-5454f2d9de59.PNG)
